@@ -1,4 +1,7 @@
 # tina-Week-7-Responsiveness-audit
+ tina-audit
+
+
 
 
 ## Audit Information
@@ -101,3 +104,4 @@ Media queries were added to:
 ## Summary
 
 Four responsiveness issues were identified and fixed. The page now adapts correctly across mobile, tablet, and desktop screen sizes, improving usability and accessibility.
+
